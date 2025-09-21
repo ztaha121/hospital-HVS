@@ -1,5 +1,7 @@
 ## Healthcare Credential Verification System
 
+![Project Overview](https://github.com/ztaha121/hospital-HVS/blob/main/Healthcare%20Credential%20Verification.png?raw=true)
+
 **Purpose:**
 Designed and implemented a digital platform to streamline the verification of healthcare professionals’ credentials, ensuring only qualified individuals are authorized to practice. The system addresses inefficiencies in manual verification processes while maintaining compliance with healthcare data standards (GDPR, HIPAA).
 
